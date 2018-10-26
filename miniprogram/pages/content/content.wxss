@@ -1,0 +1,21 @@
+/* pages/content/content.wxss */
+.container {
+    margin: 15rpx;
+}
+image {
+    width: 100%;
+}
+.header text {
+    font-size: 50rpx;
+    font-style: bold;
+}
+.origin  {
+    margin-top: 20rpx;
+    font-size: 30rpx;
+    margin-bottom: 10rpx;
+}
+.content text {
+    color: black;
+    text-indent: 2em;
+    line-height: 60rpx;
+}
